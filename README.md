@@ -34,7 +34,7 @@ O projeto utiliza o protocolo MQTT para controlar a matriz de leds e os led RGB 
 - casa/jardim/state
 - casa/jardim/movimento
 
-  <br>O termx foi utilizado para instalar e configurar o mosquitto, o broker. O IoT MQTT Panel permitiu enviar comando e desenvolver uma interface amigável para o controle dos leds. Por sua vez, o MQTT Explorer permitu que o computador funcionasse como um cliente que podia receber os dados e também enviar publicações ao tópicos.
+<br>O termux foi utilizado para instalar e configurar o mosquitto, o broker. O IoT MQTT Panel permitiu enviar comando e desenvolver uma interface amigável para o controle dos leds. Por sua vez, o MQTT Explorer permitu que o computador funcionasse como um cliente que podia receber os dados e também enviar publicações ao tópicos.
 
 
    
